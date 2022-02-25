@@ -1,5 +1,4 @@
 # THIS IS A PROGRAM FOR CLUSTERING.
-# AUTHOR : YAMANAKA
 
 from clustering import clustering  # 自作モジュール (clustering.py) と clusteringクラス の import
 

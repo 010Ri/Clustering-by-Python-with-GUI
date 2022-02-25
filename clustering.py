@@ -1,5 +1,4 @@
 # THIS IS A PROGRAM FOR CLUSTERING.
-# AUTHOR : YAMANAKA
 
 import numpy as np
 import pandas as pd
